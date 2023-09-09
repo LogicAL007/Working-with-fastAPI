@@ -49,6 +49,9 @@ This project is a simple REST API built using FastAPI and docker. It provides en
 
 5. visit `http://127.0.0.1:8000/docs#/` to see the requests built.
 
+ <img width="1280" alt="Screenshot 2023-09-09 041007" src="https://github.com/LogicAL007/Working-with-fastAPI/assets/122959675/fb50856f-3faa-40b0-9da7-b31dd42a4004">
+
+
 ## API Endpoints
 
 Here's a quick overview of the available endpoints:
