@@ -32,13 +32,13 @@ This project is a simple REST API built using FastAPI and docker. It provides en
 2. Build the Docker image:
 
    ```bash
-   docker build -t fastapi_project_image .
+   docker build -t fastapi_image .
    ```
-
+<img width="867" alt="Screenshot 2023-09-09 040827" src="https://github.com/LogicAL007/Working-with-fastAPI/assets/122959675/0444ebb8-3af9-471f-b982-6c2a74c85b71">
 3. Run the container:
 
    ```bash
-   docker run -d -p 8000:80 fastapi_project_image
+   docker run -d -p 8000:80 fastapi_image
    ```
 
 4. Visit `http://localhost:8000` in your browser to see the API in action.
