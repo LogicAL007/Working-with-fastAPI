@@ -45,6 +45,8 @@ This project is a simple REST API built using FastAPI and docker. It provides en
 
 4. Visit `http://localhost:8000` in your browser to see the API in action.
 
+<img width="1280" alt="Screenshot 2023-09-09 040915" src="https://github.com/LogicAL007/Working-with-fastAPI/assets/122959675/3924ddb0-44b1-41e6-9108-4802f7580cf2">
+
 ## API Endpoints
 
 Here's a quick overview of the available endpoints:
