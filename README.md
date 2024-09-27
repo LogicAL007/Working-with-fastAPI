@@ -23,11 +23,9 @@ This project is a simple REST API built using FastAPI and docker. It provides en
 1. Clone the repository:
 
    ```bash
-   git clone [URL_OF_YOUR_GITHUB_REPOSITORY] Working-with-fastAPI
+   git clone  Working-with-fastAPI
    cd Working-with-fastAPI
    ```
-
-   Make sure to replace `[URL_OF_YOUR_GITHUB_REPOSITORY]` with the actual URL of your repository.
 
 2. Build the Docker image:
 
